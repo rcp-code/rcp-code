@@ -1,10 +1,5 @@
-<center> 
-
+# 🌟 Hello and welcome! I'm Ro 👋👩‍💻
 ![Imagen de perfil](img/ProfileImageGitHub.png)
-## 🌟 Hello and welcome! I'm Ro 👋👩‍💻
-
-</center>
-
 
 Developer specialised in **backend** and software. I love coding and bringing ideas to life in every project. I work with several programming languages, but lately, my favourites are **Go**, **Haskell**, and **Java**. 💻
 
@@ -30,11 +25,10 @@ If you’re curious, full of ideas, and interested in collaborating, feel free t
 
 <details>
 <summary>Versión en español 🇪🇸</summary>
-<br> <center>
+<br> 
 
-### 🌟 ¡Hola! Soy Ro 👋👩‍💻
+# 🌟 ¡Hola! Soy Ro 👋👩‍💻
 
-</center>
 
 Desarrolladora de software apasionada por el **backend** que siempre busca nuevos desafíos. Me encanta programar y ver cómo cobran vida las ideas. Trabajo con varios lenguajes, pero actualmente mis favoritos son **Go**, **Haskell** y **Java**. 💻
 
@@ -59,9 +53,6 @@ Estoy enfocada en proyectos de **backend en Go**. Mi objetivos son aprender, mej
 Si eres una persona curiosa, con ideas innovadoras y ganas de colaborar, ¡contáctame! Me encanta conocer gente nueva de la que poder aprender y con la que compartir distintos puntos de vista.
 </details>
 
-<center> 
 <br>
 
 ![GithubProfileSummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcp-code&theme=dark)
-
-</center>
